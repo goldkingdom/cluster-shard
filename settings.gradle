@@ -1,2 +1,5 @@
 rootProject.name = 'cluster-shard'
+include 'config'
+include 'asset'
+include 'generator'
 

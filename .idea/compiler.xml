@@ -19,8 +19,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="asset_main" target="1.8" />
+      <module name="asset_test" target="1.8" />
       <module name="cluster-shard_main" target="1.8" />
       <module name="cluster-shard_test" target="1.8" />
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="generator_main" target="1.8" />
+      <module name="generator_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
