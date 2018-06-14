@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E://cluster-shard/.idea/modules/cluster-shard.iml" filepath="E://cluster-shard/.idea/modules/cluster-shard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cluster-shard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cluster-shard_main.iml" group="cluster-shard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cluster-shard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cluster-shard_test.iml" group="cluster-shard" />
+    </modules>
+  </component>
+</project>
